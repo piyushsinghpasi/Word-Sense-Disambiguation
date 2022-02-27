@@ -1,9 +1,9 @@
-# Implementing WSD using HMM and Viterbi algorithm
+# Implementing WSD using HMM-Viterbi and Word Embedding Overlap
 
 **Platform** : Python Jupyter, Google Colab or VS Code.  
 VS Code (version 1.59.0) was used to run the code. 
 
-## Common libraries used in HMM based implementation of WSD
+## Common libraries used in the implementation of WSD
 nltk (version 3.2.5)  
 numpy (version 1.19.5)  
 pandas (version 1.1.5)  
@@ -33,7 +33,7 @@ The "Test function" section contains the function which tests the model using th
 
 Both the files HMM_WSD_POS_Bigram.ipynb and HMM_WSD_POS_Trigram.ipynb use POS tags to generate the output with bigram and trigram assumption respectively.
 
-## Running WSD_Part2.ipynb
+## Running WSD_Part2.ipynb ( Word Embedding Overlap )
 word2vec requires the following file: GoogleNews-vectors-negative300.bin.gz
 
 **Run all the cells**.
