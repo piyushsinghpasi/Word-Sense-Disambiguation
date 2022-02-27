@@ -39,7 +39,7 @@ word2vec requires the following file: GoogleNews-vectors-negative300.bin.gz
 **Run all the cells**.
 
 ## 
-***Error Analysis has been added into the slides***
+***Error Analysis has been added in the code and the slides***
 
 ###### Caution:
 Run all cells for functions to be defined, Note and Cautions are mentioned in the Notebook as well  
