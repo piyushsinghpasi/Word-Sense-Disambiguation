@@ -33,7 +33,8 @@ The "Test function" section contains the function which tests the model using th
 
 Both the files HMM_WSD_POS_Bigram.ipynb and HMM_WSD_POS_Trigram.ipynb use POS tags to generate the output with bigram and trigram assumption respectively.
 
-## Running Overlap_WSD.ipynb ( Word Embedding Overlap supports Lesk and Extended Lesk algorithm)
+## Running Overlap_WSD.ipynb
+### Word Embedding Overlap method supports Lesk and Extended Lesk algorithm
 word2vec requires the following file: GoogleNews-vectors-negative300.bin.gz
 
 **Run all the cells**.
