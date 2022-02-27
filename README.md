@@ -34,12 +34,12 @@ The "Test function" section contains the function which tests the model using th
 Both the files HMM_WSD_POS_Bigram.ipynb and HMM_WSD_POS_Trigram.ipynb use POS tags to generate the output with bigram and trigram assumption respectively.
 
 ## Running WSD_Part2.ipynb
-word2vec requires the following file: GoogleNews-vectors-negative300.bin.gz not included in submission.
+word2vec requires the following file: GoogleNews-vectors-negative300.bin.gz
 
 **Run all the cells**.
 
-## Extra implementation for the last evaluations
-***Error analysis***
+## 
+***Error Analysis has been added into the slides***
 
 ###### Caution:
 Run all cells for functions to be defined, Note and Cautions are mentioned in the Notebook as well  
